@@ -1,55 +1,62 @@
-# 🌌 Welcome to my Digital Universe
+# ⚡ [SYSTEM_STATUS: ONLINE] ⚡
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=300&section=header&text=Creative%20Developer&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=kakaolike&color=000000&height=250&section=header&text=Heryad&fontSize=90&animation=fadeIn&fontAlignY=38&fontColor=00f2ff" width="100%" />
 </p>
 
-## 💫 About Me
-I am a **Software Architect** and **Graphic Designer** weaving code into digital experiences. I specialize in building robust systems with a touch of aesthetic magic.
-
-- 🔭 **Currently working on:** Next-gen diagnostic solutions.
-- ⚡ **Superpowers:** Converting complex problems into elegant C# and React code.
-- 🎨 **Design Philosophy:** Minimalism meets high-performance functionality.
-
----
-
-## 🛠 My Alchemy (Tech Stack)
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nextjs,react,tailwind,shopify,mysql,figma,ps,ai" />
+<p align="center">
+<img src="https://img.shields.io/badge/ROLE-SOFTWARE_ARCHITECT-00f2ff?style=for-the-badge&logo=ghost&logoColor=00f2ff" />
+<img src="https://img.shields.io/badge/STATUS-BUILDING_DYAGNOZ-ff0055?style=for-the-badge&logo=target&logoColor=ff0055" />
+<img src="https://img.shields.io/badge/LOCATION-DUBAI-7b00ff?style=for-the-badge&logo=map-pin&logoColor=7b00ff" />
 </p>
 
 ---
 
-## 📊 Galactic Stats
+## 🛰️ NEURAL INTERFACE (Tech Stack)
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME_HERE&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nextjs,react,tailwind,shopify,mysql,figma,ps,ai&theme=dark" />
 </p>
 
 ---
 
-## 🌙 My Creative Workflow
+## 📈 SYSTEM ANALYTICS (Coding Stats)
 
-> "Software is a collaborative forest, and every commit is a seed planted for the future."
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f2ff&text_color=ffffff&icon_color=00f2ff&bg_color=000000" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=ff0055&text_color=ffffff&icon_color=ff0055&bg_color=000000" />
+</p>
 
-| 📱 Mobile Solutions | 🌐 Web Ecosystems | 🎨 Visual Branding |
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&stroke=00f2ff&ring=ff0055&fire=ff0055&currStreakNum=00f2ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&bg_color=000000" width="100%" />
+</p>
+
+---
+
+## 🏆 ACHIEVEMENT UNLOCKED (Trophy Case)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-bg=true&column=7&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 🛠️ CURRENT_PROJECTS
+> **[LOG_START]** Creating high-performance mobile diagnostic tools and wholesale ecosystem solutions. Bridging the gap between raw hardware and elegant software. **[LOG_END]**
+
+| UNIT | MODULE | FREQUENCY |
 | :--- | :--- | :--- |
-| Diagnostics & Grading | Next.js & Shopify | Identity & UI/UX |
-| C# / .NET | React / Tailwind | Adobe Creative Suite |
+| 📱 **Mobile Diagnostics** | iPhone Grading Logic | High |
+| 🌐 **E-Commerce** | Custom Shopify Engines | Active |
+| 🎨 **UI/UX Design** | Cyber-Minimalism | Peak |
 
 ---
 
-## 📬 Connect with the Architect
+## 📡 ENCRYPTED CHANNELS
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/envelope.svg" alt="Email" height="30" width="40" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-00f2ff?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-ff0055?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
 </p>
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />

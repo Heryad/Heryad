@@ -1,7 +1,7 @@
 # ⚡ [SYSTEM_STATUS: ONLINE] ⚡
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=kakaolike&color=000000&height=250&section=header&text=Heryad&fontSize=90&animation=fadeIn&fontAlignY=38&fontColor=00f2ff" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=kakaolike&color=000000&height=250&section=header&text=Heryad&fontSize=80&animation=fadeIn&fontAlignY=38&fontColor=00f2ff" />
 </p>
 
 <p align="center">
@@ -23,26 +23,26 @@
 ## 📈 SYSTEM ANALYTICS (Coding Stats)
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f2ff&text_color=ffffff&icon_color=00f2ff&bg_color=000000" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=ff0055&text_color=ffffff&icon_color=ff0055&bg_color=000000" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=heryad&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f2ff&text_color=ffffff&icon_color=00f2ff&bg_color=000000" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heryad&layout=compact&theme=tokyonight&hide_border=true&title_color=ff0055&text_color=ffffff&icon_color=ff0055&bg_color=000000" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&stroke=00f2ff&ring=ff0055&fire=ff0055&currStreakNum=00f2ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&bg_color=000000" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heryad&theme=tokyonight&hide_border=true&stroke=00f2ff&ring=ff0055&fire=ff0055&currStreakNum=00f2ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&bg_color=000000" width="100%" />
 </p>
 
 ---
 
-## 🏆 ACHIEVEMENT UNLOCKED (Trophy Case)
+## 🏆 ACHIEVEMENT UNLOCKED
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-bg=true&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=heryad&theme=tokyonight&no-bg=true&column=7&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
 ## 🛠️ CURRENT_PROJECTS
-> **[LOG_START]** Creating high-performance mobile diagnostic tools and wholesale ecosystem solutions. Bridging the gap between raw hardware and elegant software. **[LOG_END]**
+> **[LOG_START]** Architecting mobile diagnostic tools (Dyagnoz) and high-performance wholesale ecosystems. Transforming hardware complexity into software elegance. **[LOG_END]**
 
 | UNIT | MODULE | FREQUENCY |
 | :--- | :--- | :--- |
@@ -56,7 +56,9 @@
 
 <p align="left">
 <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-00f2ff?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-ff0055?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+<a href="https://linkedin.com/in/heryad"><img src="https://img.shields.io/badge/LinkedIn-ff0055?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
 </p>
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
+</p>

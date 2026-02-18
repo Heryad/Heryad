@@ -1,39 +1,55 @@
-# Hi there 👋, I'm Heryad
+# 🌌 Welcome to my Digital Universe
 
-💻 **Software Engineer | AI & SaaS Builder | Blockchain Enthusiast**  
-🚀 Passionate about creating scalable apps, AI agents, and innovative products.  
-🌍 Based in Dubai, working globally.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=300&section=header&text=Creative%20Developer&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
+</p>
 
----
+## 💫 About Me
+I am a **Software Architect** and **Graphic Designer** weaving code into digital experiences. I specialize in building robust systems with a touch of aesthetic magic.
 
-## 🔧 Tech Stack
-- **Frontend:** React, Next.js, TailwindCSS  
-- **Backend:** Node.js, Hono.js, Express  
-- **Databases:** PostgreSQL, MongoDB, MySQL  
-- **AI/ML:** OpenAI APIs, LangChain, Automation Agents  
-- **Blockchain:** Solidity, Solana, Web3.js, ethers.js  
-- **Other:** Docker, GitHub Actions, REST & GraphQL APIs  
+- 🔭 **Currently working on:** Next-gen diagnostic solutions.
+- ⚡ **Superpowers:** Converting complex problems into elegant C# and React code.
+- 🎨 **Design Philosophy:** Minimalism meets high-performance functionality.
 
 ---
 
-## 🌟 Highlights
-- 🧠 Built **AI agents** for customer service, real estate, and social media automation.  
-- 🎮 Developed a **multiplayer game** tied to a Solana meme coin with hidden crypto rewards.  
-- ✈️ Created **PlanMyTrip**, an AI SaaS for personalized travel planning.  
-- 📈 Helped businesses scale with **custom CRM systems and automation tools**.  
+## 🛠 My Alchemy (Tech Stack)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nextjs,react,tailwind,shopify,mysql,figma,ps,ai" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heryad&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heryad&layout=compact&theme=radical)
+## 📊 Galactic Stats
+
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME_HERE&theme=tokyonight&hide_border=true" width="100%" />
+</p>
 
 ---
 
-## 📫 Connect with Me
-- 🐦 [Twitter](https://twitter.com/heryad_)  
-- 🌐 [Portfolio](https://heryad.io)  
+## 🌙 My Creative Workflow
+
+> "Software is a collaborative forest, and every commit is a seed planted for the future."
+
+| 📱 Mobile Solutions | 🌐 Web Ecosystems | 🎨 Visual Branding |
+| :--- | :--- | :--- |
+| Diagnostics & Grading | Next.js & Shopify | Identity & UI/UX |
+| C# / .NET | React / Tailwind | Adobe Creative Suite |
 
 ---
 
-⭐️ *Feel free to connect — I’m always open to collaborations and new opportunities!*
+## 📬 Connect with the Architect
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/envelope.svg" alt="Email" height="30" width="40" /></a>
+</p>
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />

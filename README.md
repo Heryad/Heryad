@@ -1,64 +1,109 @@
-# ⚡ [SYSTEM_STATUS: ONLINE] ⚡
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=kakaolike&color=000000&height=250&section=header&text=Heryad&fontSize=80&animation=fadeIn&fontAlignY=38&fontColor=00f2ff" />
-</p>
+<img src="https://capsule-render.vercel.app/render?type=waving&color=0:0F0F0F,100:1A1A2E&height=220&section=header&text=HERYAD&fontSize=70&fontColor=E8E8E8&fontAlignY=45&animation=fadeIn&desc=Founder%20%26%20Software%20Architect&descAlignY=65&descSize=18&descColor=888888" width="100%"/>
 
-<p align="center">
-<img src="https://img.shields.io/badge/ROLE-SOFTWARE_ARCHITECT-00f2ff?style=for-the-badge&logo=ghost&logoColor=00f2ff" />
-<img src="https://img.shields.io/badge/STATUS-BUILDING_DYAGNOZ-ff0055?style=for-the-badge&logo=target&logoColor=ff0055" />
-<img src="https://img.shields.io/badge/LOCATION-DUBAI-7b00ff?style=for-the-badge&logo=map-pin&logoColor=7b00ff" />
-</p>
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=8B8B8B&center=true&vCenter=true&width=600&lines=Building+mobile+diagnostics+at+Phonova;Shipping+e-commerce+at+Elmougi;Founder+%40+Heta+Group+LLC;Dubai+%2F+UAE" alt="Typing SVG" />
 
-## 🛰️ NEURAL INTERFACE (Tech Stack)
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nextjs,react,tailwind,shopify,mysql,figma,ps,ai&theme=dark" />
-</p>
+<br/>
 
----
+<table align="center">
+<tr>
+<td width="100%">
 
-## 📈 SYSTEM ANALYTICS (Coding Stats)
+```
+$ whoami
+```
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=heryad&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f2ff&text_color=ffffff&icon_color=00f2ff&bg_color=000000" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heryad&layout=compact&theme=tokyonight&hide_border=true&title_color=ff0055&text_color=ffffff&icon_color=ff0055&bg_color=000000" />
-</p>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heryad&theme=tokyonight&hide_border=true&stroke=00f2ff&ring=ff0055&fire=ff0055&currStreakNum=00f2ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&bg_color=000000" width="100%" />
-</p>
+I design and build the software behind hardware — from device‑grading
+logic that decides what a used iPhone is worth, to zero‑commission
+marketplaces and the AI agents that run quietly behind them. Based in
+the UAE, operating across a small portfolio of ventures rather than
+one company.
 
----
+<br/>
 
-## 🏆 ACHIEVEMENT UNLOCKED
+## Ventures
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=heryad&theme=tokyonight&no-bg=true&column=7&margin-w=15&margin-h=15" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+**📱 Phonova**
+Mobile device diagnostics & refurbishment platform. Grading logic,
+inventory pipelines, the software layer for a physical hardware
+business.
 
-## 🛠️ CURRENT_PROJECTS
-> **[LOG_START]** Architecting mobile diagnostic tools (Dyagnoz) and high-performance wholesale ecosystems. Transforming hardware complexity into software elegance. **[LOG_END]**
+</td>
+<td width="50%" valign="top">
 
-| UNIT | MODULE | FREQUENCY |
-| :--- | :--- | :--- |
-| 📱 **Mobile Diagnostics** | iPhone Grading Logic | High |
-| 🌐 **E-Commerce** | Custom Shopify Engines | Active |
-| 🎨 **UI/UX Design** | Cyber-Minimalism | Peak |
+**🛒 Elmougi**
+Certified pre‑owned electronics retail, UAE. Custom commerce
+engines built for volume, not templates.
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## 📡 ENCRYPTED CHANNELS
+**🏠 OwnersDirect.ae**
+Zero‑commission, direct‑from‑owner property marketplace — cutting
+the agent out of the UAE rental/sale equation.
 
-<p align="left">
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-00f2ff?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-<a href="https://linkedin.com/in/heryad"><img src="https://img.shields.io/badge/LinkedIn-ff0055?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
-</p>
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
-</p>
+**🧠 Heta Group LLC**
+Software studio: AI agents, web & mobile apps, blockchain
+platforms. Where client work and internal tooling both happen.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub>+ Web3 security research under <b>Xarkham Inc</b></sub>
+</div>
+
+<br/>
+
+## Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nextjs,react,tailwind,mysql,shopify,figma,ps,ai&theme=dark&perline=10" />
+</div>
+
+<br/>
+
+## Signal
+
+<div align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=heryad&show_icons=true&hide_border=true&theme=github_dark&title_color=E8E8E8&text_color=999999&icon_color=8B8B8B&bg_color=0D1117" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heryad&layout=compact&hide_border=true&theme=github_dark&title_color=E8E8E8&text_color=999999&bg_color=0D1117" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=heryad&hide_border=true&theme=github-dark-blue&background=0D1117&stroke=1A1A1A&ring=8B8B8B&fire=E8E8E8&currStreakLabel=E8E8E8" />
+</div>
+
+<br/>
+
+## Reach
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/-Email-0D1117?style=flat-square&logo=gmail&logoColor=E8E8E8)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=E8E8E8)](https://linkedin.com/in/heryad)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/render?type=waving&color=0:1A1A2E,100:0F0F0F&height=100&section=footer" width="100%"/>
